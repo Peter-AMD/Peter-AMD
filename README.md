@@ -6,7 +6,7 @@
 
 Here are my links! Reach out to me for job opportunities with my email below 👇
 
-🚀 Boot-dev: https://www.boot.dev/u/peteramd
-💼 Linkedin: https://www.linkedin.com/in/gpeteamd/
-🔍 OnlineJobsPH: https://www.onlinejobs.ph/jobseekers/info/420644
-📧 Email: gpeteamd@gmail.com
+- 🚀 Boot-dev: https://www.boot.dev/u/peteramd
+- 💼 Linkedin: https://www.linkedin.com/in/gpeteamd/
+- 🔍 OnlineJobsPH: https://www.onlinejobs.ph/jobseekers/info/420644
+- 📧 Email: gpeteamd@gmail.com
